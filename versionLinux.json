@@ -1,13 +1,13 @@
 { 
- "version": "1.0.0",
-  "versionlibraries":"1.0.0",
-  "versionExecutables":"1.0.0",
-  "versionExecutablesInit":"1.0.0",
+ "version": "1.2.7",
+  "versionlibraries":"1.0.4",
+  "versionExecutables":"1.1.0",
+  "versionExecutablesInit":"1.0.1",
   "jar": {
     "filename": "VpnConnectionGui.jar",
     "url": "https://github.com/JuanSystems/VpnConnectionGuiUpdate/raw/main/VpnConnectionGui.jar",
 	"urljson":"https://github.com/JuanSystems/VpnConnectionGuiUpdate/raw/main/version.json",
-    "checksum": "1fc96643cf61771537b6fa505d6fa667ba1686a3ee3a47680e30807c80e2cb1b"
+    "checksum": "226e145b847d2aa6fad7127ef056221a1e4a93ca7e65f9b71d840f446c8a60c7"
   },
   "libraries": [
     {
@@ -65,6 +65,13 @@
       "name": "slf4j-simple.jar",
       "url": "https://github.com/JuanSystems/VpnConnectionGuiUpdate/raw/main/lib/slf4j-api-2.0.16.jar",
       "checksum": "effc32018658bea09d1e08c7d1060ccad46c086960f583d07dd7ffe9c1172a47"
+    },
+    {
+      "filename": "flatlaf-3.5.4.jar",
+      "version": "3.5.4",
+      "name": "flatlaf.jar",
+      "url": "https://github.com/JuanSystems/VpnConnectionGuiUpdate/raw/main/lib/slf4j-api-2.0.16.jar",
+      "checksum": "3c34b6aeb2f170a954c4358647eb43b68b447a2c351ff311072f7157a5d4e2fe"
     }
 
   ],
@@ -79,14 +86,14 @@
     },
 	{
       "filename": "connectOpenVpnRevArg.exe",
-      "version": "1.0",
+      "version": "1.8",
       "name": "connectOpenVpnRevArg.exe",
       "url": "https://github.com/JuanSystems/VpnConnectionGuiUpdate/raw/main/scriptVpn/connectOpenVpnRevArg.exe",
       "checksum": "f8e381afe270060412d1ad624d0aae9d1d2d3d13e044e171f9ed3d35b292276b"
     },
 	{
       "filename": "disconnectOpenVpn.exe",
-      "version": "1.0",
+      "version": "1.1",
       "name": "disconnectOpenVpn.exe",
       "url": "https://github.com/JuanSystems/VpnConnectionGuiUpdate/raw/main/scriptVpn/disconnectOpenVpn.exe",
       "checksum": "9826f2433e27b395fb3eaa4af5a35dca7eb15d4a6eaaef087f9858a7b3b9b00c"
