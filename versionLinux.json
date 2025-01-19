@@ -77,7 +77,7 @@
       "filename": "SystemTray-4.4.jar",
       "version": "4.4",
       "name": "SystemTray.jar",
-      "url": "https://github.com/JuanSystems/VpnConnectionGuiUpdate/raw/main/lib/slf4j-api-2.0.16.jar",
+      "url": "https://github.com/JuanSystems/VpnConnectionGuiUpdateLinux/raw/main/lib/SystemTray-4.4.jar",
       "checksum": "3610fd054969764e04f54c0920b30e78084c76de76b4b97578298e18768d408f"
     }
 
