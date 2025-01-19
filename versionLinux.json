@@ -72,6 +72,13 @@
       "name": "flatlaf.jar",
       "url": "https://github.com/JuanSystems/VpnConnectionGuiUpdate/raw/main/lib/slf4j-api-2.0.16.jar",
       "checksum": "3c34b6aeb2f170a954c4358647eb43b68b447a2c351ff311072f7157a5d4e2fe"
+    },
+    {
+      "filename": "SystemTray-4.4.jar",
+      "version": "4.4",
+      "name": "SystemTray.jar",
+      "url": "https://github.com/JuanSystems/VpnConnectionGuiUpdate/raw/main/lib/slf4j-api-2.0.16.jar",
+      "checksum": "3610fd054969764e04f54c0920b30e78084c76de76b4b97578298e18768d408f"
     }
 
   ],
