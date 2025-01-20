@@ -79,6 +79,13 @@
       "name": "SystemTray.jar",
       "url": "https://github.com/JuanSystems/VpnConnectionGuiUpdateLinux/raw/main/lib/SystemTray-4.4.jar",
       "checksum": "3610fd054969764e04f54c0920b30e78084c76de76b4b97578298e18768d408f"
+    },
+    {
+      "filename": "OS-1.1.jar",
+      "version": "1.1",
+      "name": "OS.jar",
+      "url": "https://github.com/JuanSystems/VpnConnectionGuiUpdateLinux/raw/main/lib/OS-1.1.jar",
+      "checksum": "580bdafd3d83be03e60dcc344de5482be09443fa32b5684a674bca5af3ae2baa"
     }
 
   ],
