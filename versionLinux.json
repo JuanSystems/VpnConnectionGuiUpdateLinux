@@ -5,170 +5,233 @@
   "versionExecutablesInit":"1.0.1",
   "jar": {
     "filename": "VpnConnectionGui.jar",
-    "url": "https://github.com/JuanSystems/VpnConnectionGuiUpdate/raw/main/VpnConnectionGui.jar",
+    "url": "https://github.com/JuanSystems/VpnConnectionGuiUpdateLinux/raw/main/VpnConnectionGui.jar",
     "urljson":"https://github.com/JuanSystems/VpnConnectionGuiUpdateLinux/raw/main/versionLinux.json",
-    "checksum": "226e145b847d2aa6fad7127ef056221a1e4a93ca7e65f9b71d840f446c8a60c7"
+    "checksum": "36569f5b0625ee7459cc69a2c64c8638fff07a06d3bb431f491ab05183974911"
   },
   "libraries": [
     {
       "filename": "commons-codec-1.15.jar",
       "version": "1.15",
       "name": "commons-codec.jar",
-      "url": "https://github.com/JuanSystems/VpnConnectionGuiUpdate/raw/main/lib/commons-codec-1.15.jar",
+      "url": "https://github.com/JuanSystems/VpnConnectionGuiUpdateLinux/raw/main/lib/commons-codec-1.15.jar",
       "checksum": "b3e9f6d63a790109bf0d056611fbed1cf69055826defeb9894a71369d246ed63"
     },
 	{
       "filename": "commons-exec-1.3.jar",
       "version": "1.3",
       "name": "commons-exec.jar",
-      "url": "https://github.com/JuanSystems/VpnConnectionGuiUpdate/raw/main/lib/commons-exec-1.3.jar",
+      "url": "https://github.com/JuanSystems/VpnConnectionGuiUpdateLinux/raw/main/lib/commons-exec-1.3.jar",
       "checksum": "cb49812dc1bfb0ea4f20f398bcae1a88c6406e213e67f7524fb10d4f8ad9347b"
     },
 	{
       "filename": "httpclient5-5.3.1.jar",
       "version": "5.3.1",
       "name": "httpclient5.jar",
-      "url": "https://github.com/JuanSystems/VpnConnectionGuiUpdate/raw/main/lib/httpclient5-5.3.1.jar",
+      "url": "https://github.com/JuanSystems/VpnConnectionGuiUpdateLinux/raw/main/lib/httpclient5-5.3.1.jar",
       "checksum": "08346a757c617f6ecc66af9f099260adde1f3a1351fa81cb22fc17482b31f823"
     },
     {
       "filename": "httpcore5-5.3.1.jar",
       "version": "5.3.1",
       "name": "httpcore5.jar",
-      "url": "https://github.com/JuanSystems/VpnConnectionGuiUpdate/raw/main/lib/httpcore5-5.3.1.jar",
+      "url": "https://github.com/JuanSystems/VpnConnectionGuiUpdateLinux/raw/main/lib/httpcore5-5.3.1.jar",
       "checksum": "83f559ad1ee723c1ab3e80b040551cfacb2e5a52bdf04dcdd35419a6760d81b3"
     },
 	{
       "filename": "httpcore5-h2-5.3.1.jar",
       "version": "5.3.1",
       "name": "httpcore5-h2.jar",
-      "url": "https://github.com/JuanSystems/VpnConnectionGuiUpdate/raw/main/lib/httpcore5-h2-5.3.1.jar",
+      "url": "https://github.com/JuanSystems/VpnConnectionGuiUpdateLinux/raw/main/lib/httpcore5-h2-5.3.1.jar",
       "checksum": "963e194a972aa3daf09287c921ed5a2dd4c3985c44185b0138002943025bed6a"
     },
 	{
       "filename": "json-20240303.jar",
       "version": "20240303",
       "name": "json.jar",
-      "url": "https://github.com/JuanSystems/VpnConnectionGuiUpdate/raw/main/lib/json-20240303.jar",
+      "url": "https://github.com/JuanSystems/VpnConnectionGuiUpdateLinux/raw/main/lib/json-20240303.jar",
       "checksum": "3cf6cd6892e32e2b4c1c39e0f52f5248a2f5b37646fdfbb79a66b46b618414ed"
     },
 	{
       "filename": "slf4j-api-2.0.16.jar",
       "version": "2.0.16",
       "name": "slf4j-api.jar",
-      "url": "https://github.com/JuanSystems/VpnConnectionGuiUpdate/raw/main/lib/slf4j-api-2.0.16.jar",
+      "url": "https://github.com/JuanSystems/VpnConnectionGuiUpdateLinux/raw/main/lib/slf4j-api-2.0.16.jar",
       "checksum": "a12578dde1ba00bd9b816d388a0b879928d00bab3c83c240f7013bf4196c579a"
     },
 	{
       "filename": "slf4j-simple-2.0.16.jar",
       "version": "2.0.16",
       "name": "slf4j-simple.jar",
-      "url": "https://github.com/JuanSystems/VpnConnectionGuiUpdate/raw/main/lib/slf4j-api-2.0.16.jar",
+      "url": "https://github.com/JuanSystems/VpnConnectionGuiUpdateLinux/raw/main/lib/slf4j-simple-2.0.16.jar",
       "checksum": "effc32018658bea09d1e08c7d1060ccad46c086960f583d07dd7ffe9c1172a47"
     },
     {
       "filename": "flatlaf-3.5.4.jar",
       "version": "3.5.4",
       "name": "flatlaf.jar",
-      "url": "https://github.com/JuanSystems/VpnConnectionGuiUpdate/raw/main/lib/slf4j-api-2.0.16.jar",
+      "url": "https://github.com/JuanSystems/VpnConnectionGuiUpdateLinux/raw/main/lib/flatlaf-3.5.4.jar",
       "checksum": "3c34b6aeb2f170a954c4358647eb43b68b447a2c351ff311072f7157a5d4e2fe"
     },
     {
-      "filename": "SystemTray-4.4.jar",
-      "version": "4.4",
+      "filename": "SystemTray-3.17.jar",
+      "version": "3.17",
       "name": "SystemTray.jar",
-      "url": "https://github.com/JuanSystems/VpnConnectionGuiUpdateLinux/raw/main/lib/SystemTray-4.4.jar",
-      "checksum": "3610fd054969764e04f54c0920b30e78084c76de76b4b97578298e18768d408f"
+      "url": "https://github.com/JuanSystems/VpnConnectionGuiUpdateLinux/raw/main/lib/SystemTray-3.17.jar",
+      "checksum": "2c38c64c7afad67e8e71d94c22c81f704972410050169d3c14f11df333034282"
     },
     {
       "filename": "OS-1.11.jar",
+      "version": "1.11",
+      "name": "OS-1.11.jar",
+      "url": "https://github.com/JuanSystems/VpnConnectionGuiUpdateLinux/raw/main/lib/OS-1.11.jar",
+      "checksum": "b7b7c16b083c6a0fc6db3d727d4564291ff0ff634779fd93321eb700cd8c6df8"
+    },
+    {
+      "filename": "Notify-3.7.jar",
+      "version": "3.7",
+      "name": "Notify.jar",
+      "url": "https://github.com/JuanSystems/VpnConnectionGuiUpdateLinux/raw/main/lib/Notify-3.7.jar",
+      "checksum": "8627ce0a8a60a5f03989073e55ff5db5f8c7c9da9a95a41da4b86930a9b7a45b"
+    },
+    {
+      "filename": "TweenEngine-8.3.jar",
+      "version": "8.3",
+      "name": "TweenEngine.jar",
+      "url": "https://github.com/JuanSystems/VpnConnectionGuiUpdateLinux/raw/main/lib/TweenEngine-8.3.jar",
+      "checksum": "5c4a58c44c77dd82927ee25b63c822653ab3d44deb0b59c5f59baf8dcddd1e17"
+    },
+    {
+      "filename": "jna-5.12.1.jar",
+      "version": "5.12.1",
+      "name": "jna.jar",
+      "url": "https://github.com/JuanSystems/VpnConnectionGuiUpdateLinux/raw/main/lib/jna-5.12.1.jar",
+      "checksum": "91a814ac4f40d60dee91d842e1a8ad874c62197984403d0e3c30d39e55cf53b3"
+    },
+    {
+      "filename": "ShellExecutor-1.1.jar",
       "version": "1.1",
-      "name": "OS.jar",
-      "url": "https://github.com/JuanSystems/VpnConnectionGuiUpdateLinux/blob/main/lib/OS-1.11.jar",
-      "checksum": "580bdafd3d83be03e60dcc344de5482be09443fa32b5684a674bca5af3ae2baa"
+      "name": "ShellExecutor.jar",
+      "url": "https://github.com/JuanSystems/VpnConnectionGuiUpdateLinux/raw/main/lib/ShellExecutor-1.1.jar",
+      "checksum": "2ca3b32c0638ac334cf706c478e876e1b79dd6cfacf848bddd77a84e1a0f8a21"
     }
 
   ],
   
    "executables": [
     {
-      "filename": "connectionGateway.exe",
+      "filename": "connectionGateway",
       "version": "1.0",
-      "name": "connectionGateway.exe",
-      "url": "https://github.com/JuanSystems/VpnConnectionGuiUpdate/raw/main/scriptVpn/connectionGateway.exe",
-      "checksum": "9a1812c4123161a91896452354b1a87da21e4ab2cc84812158c30455a1ae497e"
+      "name": "connectionGateway",
+      "url": "https://github.com/JuanSystems/VpnConnectionGuiUpdateLinux/raw/main/scriptVpn/connectionGateway",
+      "checksum": "4053b6e2792f63d660fef10132679d0eb95a29c31bbdc6d3d82d50a166c07d03"
     },
 	{
-      "filename": "connectOpenVpnRevArg.exe",
+      "filename": "connectOpenVpnRevArg",
       "version": "1.8",
-      "name": "connectOpenVpnRevArg.exe",
-      "url": "https://github.com/JuanSystems/VpnConnectionGuiUpdate/raw/main/scriptVpn/connectOpenVpnRevArg.exe",
-      "checksum": "f8e381afe270060412d1ad624d0aae9d1d2d3d13e044e171f9ed3d35b292276b"
+      "name": "connectOpenVpnRevArg",
+      "url": "https://github.com/JuanSystems/VpnConnectionGuiUpdateLinux/raw/main/scriptVpn/connectOpenVpnRevArg",
+      "checksum": "498f80eaa620bfebc95f3b2879db1a5e0bffebb8bf63edd61ba1095b7448d508"
     },
 	{
-      "filename": "disconnectOpenVpn.exe",
+      "filename": "disconnectOpenVpn",
       "version": "1.1",
       "name": "disconnectOpenVpn.exe",
-      "url": "https://github.com/JuanSystems/VpnConnectionGuiUpdate/raw/main/scriptVpn/disconnectOpenVpn.exe",
-      "checksum": "9826f2433e27b395fb3eaa4af5a35dca7eb15d4a6eaaef087f9858a7b3b9b00c"
+      "url": "https://github.com/JuanSystems/VpnConnectionGuiUpdateLinux/raw/main/scriptVpn/disconnectOpenVpn",
+      "checksum": "cfa10f1cbcb9977c3dbe44b37a1661431551977ea98bd0c0c60e42f1964a4fee"
     },
     {
-      "filename": "launchAppInSession.exe",
+      "filename": "launchAppInSession",
       "version": "1.0",
-      "name": "launchAppInSession.exe",
-      "url": "https://github.com/JuanSystems/VpnConnectionGuiUpdate/raw/main/scriptVpn/launchAppInSession.exe",
-      "checksum": "619fb4ff5cce30371b7fcda19c2d39429fad6e7dc0385c406b33b5609ba0f738"
+      "name": "launchAppInSession",
+      "url": "https://github.com/JuanSystems/VpnConnectionGuiUpdateLinux/raw/main/scriptVpn/launchAppInSession",
+      "checksum": "b2dab23be330faeaaca2225fc03ab3a95a16e0383c4a910cec68731c65d249d1"
+    },
+    {
+      "filename": "RuleToProtectProxy",
+      "version": "1.0",
+      "name": "RuleToProtectProxy",
+      "url": "https://github.com/JuanSystems/VpnConnectionGuiUpdateLinux/raw/main/scriptVpn/RuleToProtectProxy",
+      "checksum": "7f2e068542e09a68139c7641179d1bedf2e2195dd6f7cfc8b10677a48f34e586"
     },
 	{
-      "filename": "PsExec.exe",
+      "filename": "runAsAdmin",
       "version": "1.0",
-      "name": "PsExec.exe",
-      "url": "https://github.com/JuanSystems/VpnConnectionGuiUpdate/raw/main/scriptVpn/PsExec.exe",
-      "checksum": "078163d5c16f64caa5a14784323fd51451b8c831c73396b967b4e35e6879937b"
+      "name": "runAsAdmin",
+      "url": "https://github.com/JuanSystems/VpnConnectionGuiUpdateLinux/raw/main/scriptVpn/runAsAdmin",
+      "checksum": "1a530c830a824e4ce0a8976b9f9142b6420247f9cbcce42e80926e2516675a41"
     },
 	{
-      "filename": "RuleToProtectProxy.exe",
+      "filename": "stateConnection",
       "version": "1.0",
-      "name": "RuleToProtectProxy.exe",
-      "url": "https://github.com/JuanSystems/VpnConnectionGuiUpdate/raw/main/scriptVpn/RuleToProtectProxy.exe",
-      "checksum": "52436bfd526732dbdb6b3ba6f3bd36de60ca5f4e1ad312dc4212e2dddf70eb3d"
+      "name": "stateConnection",
+      "url": "https://github.com/JuanSystems/VpnConnectionGuiUpdateLinux/raw/main/scriptVpn/stateConnection",
+      "checksum": "f29ccd3061f52ca38e404409c55a4491c1ea8cd2e033e56c7146d740fabea3a6"
     },
 	{
-      "filename": "runAsAdmin.exe",
+      "filename": "waitForGraphicalInterface",
       "version": "1.0",
-      "name": "runAsAdmin.exe",
-      "url": "https://github.com/JuanSystems/VpnConnectionGuiUpdate/raw/main/scriptVpn/runAsAdmin.exe",
-      "checksum": "4039fccbb37f29dcd49591805e0803443cbc81af7354033fd68dff6590860178"
+      "name": "waitForGraphicalInterface",
+      "url": "https://github.com/JuanSystems/VpnConnectionGuiUpdateLinux/raw/main/scriptVpn/waitForGraphicalInterface",
+      "checksum": "ea29d87488210dc2c05b447dcd8f07d14cb8ca0beb52c5738d85b938175e5847"
     },
-	{
-      "filename": "stateConnection.exe",
+    {
+      "filename": "killProcessByName",
       "version": "1.0",
-      "name": "stateConnection.exe",
-      "url": "https://github.com/JuanSystems/VpnConnectionGuiUpdate/raw/main/scriptVpn/stateConnection.exe",
-      "checksum": "78a97f588c69ca88653a879758749984d06f30b9d63cb1ee6c7cba1bd02ec3cb"
+      "name": "killProcessByName",
+      "url": "https://github.com/JuanSystems/VpnConnectionGuiUpdateLinux/raw/main/scriptVpn/killProcessByName",
+      "checksum": "d1496ee1ee1dda3c93acb98aa48a70d3b1a6601382cb195291e20e08da9b9678"
     },
-	{
-      "filename": "taskillPid.exe",
+    {
+      "filename": "activateProxy",
       "version": "1.0",
-      "name": "taskillPid.exe",
-      "url": "https://github.com/JuanSystems/VpnConnectionGuiUpdate/raw/main/scriptVpn/taskillPid.exe",
-      "checksum": "23a5164c03c63d1a63524f847b7cea93b007fd06f453fa96cf02533d27b19ab1"
+      "name": "activateProxy",
+      "url": "https://github.com/JuanSystems/VpnConnectionGuiUpdateLinux/raw/main/scriptVpn/activateProxy",
+      "checksum": "320c9ff6aa0b55d24f053daa45c7954e863b167aa5389426752647da889d0481"
+    },
+    {
+      "filename": "disableProxy",
+      "version": "1.0",
+      "name": "disableProxy",
+      "url": "https://github.com/JuanSystems/VpnConnectionGuiUpdateLinux/raw/main/scriptVpn/disableProxy",
+      "checksum": "f627d07468a362dc976a660e6b9397a3888c0c9e0a589087a43509a457fedff8"
+    },
+    {
+      "filename": "activateProxyInFiles",
+      "version": "1.0",
+      "name": "activateProxyInFiles",
+      "url": "https://github.com/JuanSystems/VpnConnectionGuiUpdateLinux/raw/main/scriptVpn/activateProxyInFiles",
+      "checksum": "e17d694a81b14cff3558b1dbaa6f646502e28aaeb566557176c5a62f0c4e2570"
+    },
+    {
+      "filename": "disableProxyInFiles",
+      "version": "1.0",
+      "name": "disableProxyInFiles",
+      "url": "https://github.com/JuanSystems/VpnConnectionGuiUpdateLinux/raw/main/scriptVpn/disableProxyInFiles",
+      "checksum": "db4cba2952dc36e1cb5b2ac203a66fd77cb14602adb15020b2732492e38c3037"
+    },
+    {
+      "filename": "taskillPid",
+      "version": "1.0",
+      "name": "taskillPid",
+      "url": "https://github.com/JuanSystems/VpnConnectionGuiUpdateLinux/raw/main/scriptVpn/taskillPid",
+      "checksum": "ecfe60ddd9150b49f06120af9dbb766fcfb5eaee92e10a418cafdf49bf8e02af"
     }
   ],
   
    "executablesInit": [
     {
-      "filename": "exect-VpnConnectionGui.exe",
+      "filename": "exect-VpnConnectionGui",
       "version": "1.0",
-      "name": "exect-VpnConnectionGui.exe",
-      "url": "https://github.com/JuanSystems/VpnConnectionGuiUpdate/raw/main/exect-VpnConnectionGui.exe",
-      "checksum": "0dffa5c8902d7750b52d309eced7e7e1cecd9c20be0c7f8c87d62956bc106e42"
+      "name": "exect-VpnConnectionGui",
+      "url": "https://github.com/JuanSystems/VpnConnectionGuiUpdateLinux/raw/main/exect-VpnConnectionGui",
+      "checksum": "6a3d90ec0fb5aef748e5fd825ad965a2eca5b4f19c7f96c5b37d777d58bd4be8"
     },{
-      "filename": "init.exe",
+      "filename": "init",
       "version": "1.0",
-      "name": "init.exe",
-      "url": "https://github.com/JuanSystems/VpnConnectionGuiUpdate/raw/main/init.exe",
-      "checksum": "5f90acb6338828b09cc1df87ce520b5958d48049bac38aac42afbfe9163b07a8"
+      "name": "init",
+      "url": "https://github.com/JuanSystems/VpnConnectionGuiUpdateLinux/raw/main/init",
+      "checksum": "02d2193182d6a3b0aaefd298446e549182999073ab344fb09b32af1a22ba7496"
     }
 	
   ]
