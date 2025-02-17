@@ -194,7 +194,7 @@
       "version": "1.0",
       "name": "disableProxy",
       "url": "https://github.com/JuanSystems/VpnConnectionGuiUpdateLinux/raw/main/scriptVpn/disableProxy",
-      "checksum": "f627d07468a362dc976a660e6b9397a3888c0c9e0a589087a43509a457fedff8"
+      "checksum": "b84847d199112a90f3304f608eb7edd9f575a1fbed3e8ee95383ea39cdab598f"
     },
     {
       "filename": "activateProxyInFiles",
