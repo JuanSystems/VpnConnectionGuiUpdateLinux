@@ -7,7 +7,7 @@
     "filename": "VpnConnectionGui.jar",
     "url": "https://github.com/JuanSystems/VpnConnectionGuiUpdateLinux/raw/main/VpnConnectionGui.jar",
     "urljson":"https://github.com/JuanSystems/VpnConnectionGuiUpdateLinux/raw/main/versionLinux.json",
-    "checksum": "36569f5b0625ee7459cc69a2c64c8638fff07a06d3bb431f491ab05183974911"
+    "checksum": "93dfd1e5b8e3d64b12ad8f37b5d70355dc040d20e2a9cd26e37a1f06eea9654d"
   },
   "libraries": [
     {
@@ -145,7 +145,7 @@
       "version": "1.0",
       "name": "launchAppInSession",
       "url": "https://github.com/JuanSystems/VpnConnectionGuiUpdateLinux/raw/main/scriptVpn/launchAppInSession",
-      "checksum": "b2dab23be330faeaaca2225fc03ab3a95a16e0383c4a910cec68731c65d249d1"
+      "checksum": "aef58f51e44a5142e0b7799258725fd2a2b710f70d353fd16f072f7d1b8f8904"
     },
     {
       "filename": "RuleToProtectProxy",
@@ -225,13 +225,13 @@
       "version": "1.0",
       "name": "exect-VpnConnectionGui",
       "url": "https://github.com/JuanSystems/VpnConnectionGuiUpdateLinux/raw/main/exect-VpnConnectionGui",
-      "checksum": "6a3d90ec0fb5aef748e5fd825ad965a2eca5b4f19c7f96c5b37d777d58bd4be8"
+      "checksum": "33be0e2f47de7ce8ae103d3ac034e959cdf28502ba852feb495681d05231de08"
     },{
       "filename": "init",
       "version": "1.0",
       "name": "init",
       "url": "https://github.com/JuanSystems/VpnConnectionGuiUpdateLinux/raw/main/init",
-      "checksum": "02d2193182d6a3b0aaefd298446e549182999073ab344fb09b32af1a22ba7496"
+      "checksum": "f942a7d1faa94e4f7c6a13184a89b618d2fe9c6f24c74a58ff88563f80218821"
     }
 	
   ]
