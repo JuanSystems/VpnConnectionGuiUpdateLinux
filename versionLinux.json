@@ -7,7 +7,7 @@
     "filename": "VpnConnectionGui.jar",
     "url": "https://github.com/JuanSystems/VpnConnectionGuiUpdateLinux/raw/main/VpnConnectionGui.jar",
     "urljson":"https://github.com/JuanSystems/VpnConnectionGuiUpdateLinux/raw/main/versionLinux.json",
-    "checksum": "93dfd1e5b8e3d64b12ad8f37b5d70355dc040d20e2a9cd26e37a1f06eea9654d"
+    "checksum": "3c766df477a45e1f6ca69e69f14b43c302f0e3b4d27392e96e9bc95e617bc492"
   },
   "libraries": [
     {
