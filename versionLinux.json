@@ -145,7 +145,7 @@
       "version": "1.0",
       "name": "launchAppInSession",
       "url": "https://github.com/JuanSystems/VpnConnectionGuiUpdateLinux/raw/main/scriptVpn/launchAppInSession",
-      "checksum": "e8716b9f5d956dd9ed6794f4ab351486973afb8afb932c973a9751527ab7df71"
+      "checksum": "d92c82127ffd5d5c6dce0b73224313c5146c5ad693a1ab4cb81ea952ffc02bc3"
     },
     {
       "filename": "RuleToProtectProxy",
