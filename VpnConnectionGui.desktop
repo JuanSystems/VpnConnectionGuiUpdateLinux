@@ -1,8 +1,10 @@
 [Desktop Entry]
+Name=VpnConnectionGui
 Version=1.0
-Type=Application
-Name=WhatsAppSender
 Exec=/opt/VpnConnectionGui/init default
 Icon=/opt/VpnConnectionGui/unnamed2-removebg-previewMin3.ico
+Type=Application
 Terminal=false
-Name[es_ES]=VpnConnectionGui.desktop
+StartupNotify=true
+Encoding=UTF-8
+Categories=Application;

@@ -124,77 +124,77 @@
       "version": "1.0",
       "name": "connectionGateway",
       "url": "https://github.com/JuanSystems/VpnConnectionGuiUpdateLinux/raw/main/scriptVpn/connectionGateway",
-      "checksum": "4053b6e2792f63d660fef10132679d0eb95a29c31bbdc6d3d82d50a166c07d03"
+      "checksum": "b755bb5afcbf1a181e3890c0a6881815f853e47f2b92f3aeaad91abfa17e92ff"
     },
 	{
       "filename": "connectOpenVpnRevArg",
       "version": "1.8",
       "name": "connectOpenVpnRevArg",
       "url": "https://github.com/JuanSystems/VpnConnectionGuiUpdateLinux/raw/main/scriptVpn/connectOpenVpnRevArg",
-      "checksum": "498f80eaa620bfebc95f3b2879db1a5e0bffebb8bf63edd61ba1095b7448d508"
+      "checksum": "19205bbb4ab24c2fe9ed47d7562e05e3e56ca24cc6a2341f7058154e15f47080"
     },
 	{
       "filename": "disconnectOpenVpn",
       "version": "1.1",
       "name": "disconnectOpenVpn.exe",
       "url": "https://github.com/JuanSystems/VpnConnectionGuiUpdateLinux/raw/main/scriptVpn/disconnectOpenVpn",
-      "checksum": "cfa10f1cbcb9977c3dbe44b37a1661431551977ea98bd0c0c60e42f1964a4fee"
+      "checksum": "d82c8eba9ea4a7029a0bbdedc2c9d090e15a3336ecd990a88213855414e41107"
     },
     {
       "filename": "launchAppInSession",
       "version": "1.0",
       "name": "launchAppInSession",
       "url": "https://github.com/JuanSystems/VpnConnectionGuiUpdateLinux/raw/main/scriptVpn/launchAppInSession",
-      "checksum": "aef58f51e44a5142e0b7799258725fd2a2b710f70d353fd16f072f7d1b8f8904"
+      "checksum": "e8716b9f5d956dd9ed6794f4ab351486973afb8afb932c973a9751527ab7df71"
     },
     {
       "filename": "RuleToProtectProxy",
       "version": "1.0",
       "name": "RuleToProtectProxy",
       "url": "https://github.com/JuanSystems/VpnConnectionGuiUpdateLinux/raw/main/scriptVpn/RuleToProtectProxy",
-      "checksum": "7f2e068542e09a68139c7641179d1bedf2e2195dd6f7cfc8b10677a48f34e586"
+      "checksum": "f1b0a658c25ee594f6f5bf0fe6a6a6fdfe50ead55a753dd9aff470c83ddcd0f7"
     },
 	{
       "filename": "runAsAdmin",
       "version": "1.0",
       "name": "runAsAdmin",
       "url": "https://github.com/JuanSystems/VpnConnectionGuiUpdateLinux/raw/main/scriptVpn/runAsAdmin",
-      "checksum": "1a530c830a824e4ce0a8976b9f9142b6420247f9cbcce42e80926e2516675a41"
+      "checksum": "963338b810c4762063d24c15908e967519d2ba8255d4f6aa2dd21c73deee9bbf"
     },
 	{
       "filename": "stateConnection",
       "version": "1.0",
       "name": "stateConnection",
       "url": "https://github.com/JuanSystems/VpnConnectionGuiUpdateLinux/raw/main/scriptVpn/stateConnection",
-      "checksum": "f29ccd3061f52ca38e404409c55a4491c1ea8cd2e033e56c7146d740fabea3a6"
+      "checksum": "325135d66ad1dee40d73bd335d8d25106719ffce3684178930c8b6c006b11398"
     },
 	{
       "filename": "waitForGraphicalInterface",
       "version": "1.0",
       "name": "waitForGraphicalInterface",
       "url": "https://github.com/JuanSystems/VpnConnectionGuiUpdateLinux/raw/main/scriptVpn/waitForGraphicalInterface",
-      "checksum": "ea29d87488210dc2c05b447dcd8f07d14cb8ca0beb52c5738d85b938175e5847"
+      "checksum": "1fdbb657ce3027f5e179fc7f77049a9c1a8a24408c0c514984262affbb95d905"
     },
     {
       "filename": "killProcessByName",
       "version": "1.0",
       "name": "killProcessByName",
       "url": "https://github.com/JuanSystems/VpnConnectionGuiUpdateLinux/raw/main/scriptVpn/killProcessByName",
-      "checksum": "d1496ee1ee1dda3c93acb98aa48a70d3b1a6601382cb195291e20e08da9b9678"
+      "checksum": "847166353a1ccbc4bbdb29317a0855f8631033d096efdfad970d2e0997f20b63"
     },
     {
       "filename": "activateProxy",
       "version": "1.0",
       "name": "activateProxy",
       "url": "https://github.com/JuanSystems/VpnConnectionGuiUpdateLinux/raw/main/scriptVpn/activateProxy",
-      "checksum": "320c9ff6aa0b55d24f053daa45c7954e863b167aa5389426752647da889d0481"
+      "checksum": "a7c346bc12120a26e901b04ab71130534a4cf21f98915ca0305b8f7ed900a531"
     },
     {
       "filename": "disableProxy",
       "version": "1.0",
       "name": "disableProxy",
       "url": "https://github.com/JuanSystems/VpnConnectionGuiUpdateLinux/raw/main/scriptVpn/disableProxy",
-      "checksum": "b84847d199112a90f3304f608eb7edd9f575a1fbed3e8ee95383ea39cdab598f"
+      "checksum": "5c6c46969fd0d63e066f5a651a5f5b1d066dda25a90f1ae5ccd72bf21cbfa55f"
     },
     {
       "filename": "activateProxyInFiles",
@@ -208,14 +208,14 @@
       "version": "1.0",
       "name": "disableProxyInFiles",
       "url": "https://github.com/JuanSystems/VpnConnectionGuiUpdateLinux/raw/main/scriptVpn/disableProxyInFiles",
-      "checksum": "db4cba2952dc36e1cb5b2ac203a66fd77cb14602adb15020b2732492e38c3037"
+      "checksum": "787775ecea88f48a8f56124d8481f7e912cd2a0fe22d3d6cf7394b5389ddac18"
     },
     {
       "filename": "taskillPid",
       "version": "1.0",
       "name": "taskillPid",
       "url": "https://github.com/JuanSystems/VpnConnectionGuiUpdateLinux/raw/main/scriptVpn/taskillPid",
-      "checksum": "ecfe60ddd9150b49f06120af9dbb766fcfb5eaee92e10a418cafdf49bf8e02af"
+      "checksum": "8b074c1f574ccdc44003680568cecf5a36070c6ff16900d118cc62468c4f33c9"
     }
   ],
   
@@ -225,13 +225,13 @@
       "version": "1.0",
       "name": "exect-VpnConnectionGui",
       "url": "https://github.com/JuanSystems/VpnConnectionGuiUpdateLinux/raw/main/exect-VpnConnectionGui",
-      "checksum": "33be0e2f47de7ce8ae103d3ac034e959cdf28502ba852feb495681d05231de08"
+      "checksum": "b5894a0d8c6331b3f47cd06b888063f9a4559a9fc8ac621d2f16bc0a500844ca"
     },{
       "filename": "init",
       "version": "1.0",
       "name": "init",
       "url": "https://github.com/JuanSystems/VpnConnectionGuiUpdateLinux/raw/main/init",
-      "checksum": "edc6a3a6d08d1ce36579d91691ce597f830811f805f3dc71e7856c3009a42520"
+      "checksum": "2cbbd33f52579d2e85d6833c4a4b07cc67896ce576111f702b1acbc004269201"
     }
 	
   ]
