@@ -131,7 +131,7 @@
       "version": "1.8",
       "name": "connectOpenVpnRevArg",
       "url": "https://github.com/JuanSystems/VpnConnectionGuiUpdateLinux/raw/main/scriptVpn/connectOpenVpnRevArg",
-      "checksum": "c5310b02922d029a8a0f6ca9ac1f636f2c7904c75208b44d1e475de0ff44422e"
+      "checksum": "69343716afecdae58c63debd3995d175c5dadfddb6bec2d5572d9d3bab578eae"
     },
 	{
       "filename": "disconnectOpenVpn",
