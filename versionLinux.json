@@ -184,31 +184,31 @@
     },
     {
       "filename": "activateProxy",
-      "version": "1.1",
+      "version": "1.2",
       "name": "activateProxy",
       "url": "https://github.com/JuanSystems/VpnConnectionGuiUpdateLinux/raw/main/scriptVpn/activateProxy",
-      "checksum": "adfd33e67b043f9ca29549fbccfde6fe8613b1c4710928010ebd5cb486070468"
+      "checksum": "6ea44756dba54b372224cd6ca3cf5b1b937946371e7e17b725f481149f52ad31"
     },
     {
       "filename": "disableProxy",
-      "version": "1.1",
+      "version": "1.2",
       "name": "disableProxy",
       "url": "https://github.com/JuanSystems/VpnConnectionGuiUpdateLinux/raw/main/scriptVpn/disableProxy",
-      "checksum": "6f3648ff265e4ee9387bbdef8b19efab38b3c458a38e72d02fb597c0da69cf92"
+      "checksum": "2560f768bf0f3b97088bd9fc19eeb05ebe4b209d95c431a0b7e8e13c300b7873"
     },
     {
       "filename": "activateProxyInFiles",
       "version": "1.1",
       "name": "activateProxyInFiles",
       "url": "https://github.com/JuanSystems/VpnConnectionGuiUpdateLinux/raw/main/scriptVpn/activateProxyInFiles",
-      "checksum": "20e51d5657559017109576be216dc8ebe4f844251050b3fd5fdea374355f7faf"
+      "checksum": "ab7c4d748be5dcaf9c593cfae801327cc3faabae3d95f7c9a99dd576a922bb9f"
     },
     {
       "filename": "disableProxyInFiles",
-      "version": "1.1",
+      "version": "1.2",
       "name": "disableProxyInFiles",
       "url": "https://github.com/JuanSystems/VpnConnectionGuiUpdateLinux/raw/main/scriptVpn/disableProxyInFiles",
-      "checksum": "64a1a3ccfe8ca1c2b2366133d19616d2a2d0ee919732474094db233b78777ad9"
+      "checksum": "08be3b35583216986851462443ad2bfc9a99e0c2f5b5481346a9a947e015c1e5"
     },
     {
       "filename": "taskillPid",
