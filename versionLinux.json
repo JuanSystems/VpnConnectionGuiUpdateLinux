@@ -205,10 +205,10 @@
     },
     {
       "filename": "disableProxyInFiles",
-      "version": "1.2",
+      "version": "1.3",
       "name": "disableProxyInFiles",
       "url": "https://github.com/JuanSystems/VpnConnectionGuiUpdateLinux/raw/main/scriptVpn/disableProxyInFiles",
-      "checksum": "08be3b35583216986851462443ad2bfc9a99e0c2f5b5481346a9a947e015c1e5"
+      "checksum": "a208205e28183d08c90b17a4051303339641a9aef96245e1a1caf759caf4e7e9"
     },
     {
       "filename": "taskillPid",
