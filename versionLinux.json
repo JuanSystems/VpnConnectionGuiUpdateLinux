@@ -184,17 +184,17 @@
     },
     {
       "filename": "activateProxy",
-      "version": "1.0",
+      "version": "1.1",
       "name": "activateProxy",
       "url": "https://github.com/JuanSystems/VpnConnectionGuiUpdateLinux/raw/main/scriptVpn/activateProxy",
-      "checksum": "a7c346bc12120a26e901b04ab71130534a4cf21f98915ca0305b8f7ed900a531"
+      "checksum": "adfd33e67b043f9ca29549fbccfde6fe8613b1c4710928010ebd5cb486070468"
     },
     {
       "filename": "disableProxy",
-      "version": "1.0",
+      "version": "1.1",
       "name": "disableProxy",
       "url": "https://github.com/JuanSystems/VpnConnectionGuiUpdateLinux/raw/main/scriptVpn/disableProxy",
-      "checksum": "5c6c46969fd0d63e066f5a651a5f5b1d066dda25a90f1ae5ccd72bf21cbfa55f"
+      "checksum": "6f3648ff265e4ee9387bbdef8b19efab38b3c458a38e72d02fb597c0da69cf92"
     },
     {
       "filename": "activateProxyInFiles",
