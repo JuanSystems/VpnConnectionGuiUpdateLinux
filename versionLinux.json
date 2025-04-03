@@ -1,6 +1,6 @@
 { 
  "version": "1.0.4",
-  "versionlibraries":"1.0.0",
+  "versionlibraries":"1.0.1",
   "versionExecutables":"1.1.0",
   "versionExecutablesInit":"1.0.1",
   "jar": {
@@ -198,17 +198,17 @@
     },
     {
       "filename": "activateProxyInFiles",
-      "version": "1.0",
+      "version": "1.1",
       "name": "activateProxyInFiles",
       "url": "https://github.com/JuanSystems/VpnConnectionGuiUpdateLinux/raw/main/scriptVpn/activateProxyInFiles",
-      "checksum": "e17d694a81b14cff3558b1dbaa6f646502e28aaeb566557176c5a62f0c4e2570"
+      "checksum": "20e51d5657559017109576be216dc8ebe4f844251050b3fd5fdea374355f7faf"
     },
     {
       "filename": "disableProxyInFiles",
-      "version": "1.0",
+      "version": "1.1",
       "name": "disableProxyInFiles",
       "url": "https://github.com/JuanSystems/VpnConnectionGuiUpdateLinux/raw/main/scriptVpn/disableProxyInFiles",
-      "checksum": "787775ecea88f48a8f56124d8481f7e912cd2a0fe22d3d6cf7394b5389ddac18"
+      "checksum": "64a1a3ccfe8ca1c2b2366133d19616d2a2d0ee919732474094db233b78777ad9"
     },
     {
       "filename": "taskillPid",
