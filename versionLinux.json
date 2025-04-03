@@ -184,10 +184,10 @@
     },
     {
       "filename": "activateProxy",
-      "version": "1.2",
+      "version": "1.3",
       "name": "activateProxy",
       "url": "https://github.com/JuanSystems/VpnConnectionGuiUpdateLinux/raw/main/scriptVpn/activateProxy",
-      "checksum": "6ea44756dba54b372224cd6ca3cf5b1b937946371e7e17b725f481149f52ad31"
+      "checksum": "06a884cdaebd03eee0f11bfbabcf3101fbdd1a60cd57edf9ccbd240fb20b9d45"
     },
     {
       "filename": "disableProxy",
